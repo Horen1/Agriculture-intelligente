@@ -1,6 +1,3 @@
-/*<p align="center">
-  <img src="docs/images/fvicone_bon.png" width="200" alt="Logo Agriculture">
-</p>*/
 
 # Agriculture
 
